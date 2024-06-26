@@ -20,7 +20,7 @@
 
 |                                            🏆 赞助商 🏆                                             |
   |:------------------------------------------------------------------------------------------------:|
-| 👉 [WikeAI](https://wike.ai/) 支持 GPT4、Claude3、GPT-3.5-turbo（免费无限制）、Gemini Pro（免费无限制）、助手/绘画、语音合成。 |
+| 👉 <a href="https://sim.quickso.cn/">快点卡卡屋：便宜大碗流量卡，站长佛系经营~</a>|
 
 ---
 
@@ -1283,7 +1283,8 @@
                         🧰
             </td>
             <td>2024-05-24</td>
-            <td>Midjourney</td>
+            <td>Midjourney
+</td>
         </tr>
         <tr>
             <td>117</td>
@@ -2307,7 +2308,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>206</td>
@@ -2680,7 +2682,8 @@
                         🔒
             </td>
             <td>2023-11-26</td>
-            <td>发布页 https://fby.xiamis.xyz/</td>
+            <td>发布页 https://fby.xiamis.xyz/
+</td>
         </tr>
         <tr>
             <td>240</td>
